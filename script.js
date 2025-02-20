@@ -1,5 +1,5 @@
-function calling(){
-    console.log("calling")
-};
 
-calling();
+
+(function calling(){
+    console.log("calling")
+})();
