@@ -9,3 +9,4 @@ function greet(x){
     console.log("calling")
 })();
 
+const dob= 12-12-1222;
