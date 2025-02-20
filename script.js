@@ -11,3 +11,4 @@ function greet(x){
 
 const dob= 12-12-1222;
 console.log("Script file");
+Console.log("Hello");
